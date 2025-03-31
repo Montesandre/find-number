@@ -1,4 +1,4 @@
-# README para o Jogo "He Thought" (Find the Number)
+# O Jogo "He Thought" (Find the Number)
 
 ## 📌 Visão Geral
 "He Thought" é um jogo simples de adivinhação onde o jogador tenta descobrir um número secreto gerado aleatoriamente pelo computador. O jogo fornece dicas indicando se o palpite foi muito alto ou muito baixo.
